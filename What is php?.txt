@@ -1,0 +1,7 @@
+What is php? php stands for hypertext preprocessor which is an open source scripting language that is mainly used for web development.
+
+Scripting languages are also programming languages, the main difference between the scripting and programming languages lies within their execution.
+
+While programming languages need to be compiled into machine language the scripting languages need to be interpreted, for example; java, c, or c++ are programming languages that need to be compiled in order tu run where php and javascript need an interpreter unlike javascript which runs on the client within the browser php requires a server to run, this is a very simple representation of how php runs..
+
+Client or the browser makes requests to the server which then interprets and processes
